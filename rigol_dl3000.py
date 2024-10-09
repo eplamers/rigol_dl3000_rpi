@@ -1,0 +1,1 @@
+#class wrapper for rigol dl3000 queries 
